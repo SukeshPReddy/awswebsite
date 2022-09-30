@@ -1,3 +1,3 @@
-# AWS_practice
+# Sample Application for AWS DevOps Course
 
-File from intellipat and sing for practice.
+#updated this file
